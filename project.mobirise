@@ -1911,13 +1911,6 @@
                   "margin-left": "40px !important"
                 }
               },
-              "& when (@grayFilter)": {
-                "-webkit-filter": "grayscale(100%)",
-                "-moz-filter": "grayscale(100%)",
-                "-ms-filter": "grayscale(100%)",
-                "-o-filter": "grayscale(100%)",
-                "filter": "gray"
-              },
               ".place-card": {
                 "margin-left": "40px !important"
               }
@@ -1936,7 +1929,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {
@@ -2008,13 +2003,6 @@
                 ".place-card": {
                   "margin-left": "40px !important"
                 }
-              },
-              "& when (@grayFilter)": {
-                "-webkit-filter": "grayscale(100%)",
-                "-moz-filter": "grayscale(100%)",
-                "-ms-filter": "grayscale(100%)",
-                "-o-filter": "grayscale(100%)",
-                "filter": "gray"
               },
               ".place-card": {
                 "margin-left": "40px !important"

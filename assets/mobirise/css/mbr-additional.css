@@ -2203,11 +2203,6 @@ body {
 .cid-qBVfYPsX3x .google-map {
   width: 100%;
   height: 30rem;
-  -webkit-filter: grayscale(100%);
-  -moz-filter: grayscale(100%);
-  -ms-filter: grayscale(100%);
-  -o-filter: grayscale(100%);
-  filter: gray;
 }
 .cid-qBVfYPsX3x .google-map iframe {
   width: inherit;
@@ -2271,11 +2266,6 @@ body {
 .cid-qBVhZY3k0C .google-map {
   width: 100%;
   height: 30rem;
-  -webkit-filter: grayscale(100%);
-  -moz-filter: grayscale(100%);
-  -ms-filter: grayscale(100%);
-  -o-filter: grayscale(100%);
-  filter: gray;
 }
 .cid-qBVhZY3k0C .google-map iframe {
   width: inherit;
