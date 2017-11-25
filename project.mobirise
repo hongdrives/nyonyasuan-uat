@@ -29,13 +29,13 @@
         "arrowColor": "#9f3942"
       },
       "additionalSetColors": [
+        "#4fd73b",
         "#f9d9af",
         "#d4d4d4",
         "#636363",
         "#dcd9d7",
         "#fff9ed",
-        "#c22734",
-        "#197e9e"
+        "#c22734"
       ]
     },
     "versionFirst": "4.4.0",
@@ -1923,7 +1923,7 @@
               }
             },
             ".adress-block B": {
-              "color": "#73d964"
+              "color": "#4fd73b"
             },
             ".mbr-section-subtitle": {
               "color": "#ffbc00"
